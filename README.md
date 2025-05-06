@@ -1,5 +1,5 @@
 - I am trying to learn...
-- yeah that was it have a good day
+
 
 <!---
 VENDingMachin3/VENDingMachin3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
